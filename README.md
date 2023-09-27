@@ -1,3 +1,5 @@
+`simple-login` is a practice project designed to facilitate learning in TypeScript. It provides a platform where users can create an account with their username, password, first name, last name, and date of birth. All user login details are securely stored in a locally hosted MongoDB server.
+
 # `simple-login` Application Setup
 
 ## Table of Contents
