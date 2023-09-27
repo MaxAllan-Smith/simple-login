@@ -52,7 +52,7 @@ mongo
 
 ### 1. Clone the Repository (if not done already)
 ```bash
-git clone <repository_url> simple-login
+git clone git@github.com:MaxAllan-Smith/simple-login.git
 cd simple-login
 ```
 
